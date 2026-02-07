@@ -1,4 +1,1 @@
-node_modules
-*.snap
-public/bundle.js
-coverage
+Nothing needs to be ignored based on the provided file changes. The only file added is `gomoku.html`, which appears to be a source file and should not be ignored.
